@@ -1,5 +1,3 @@
-# Link to Webapp [https://world-bank-dashboard-api.herokuapp.com](https://world-bank-dashboard-api.herokuapp.com)
-
 # World Bank API Data Dashboard 
 
 This is a flask app that visualizes data from the world bank API. Data is
